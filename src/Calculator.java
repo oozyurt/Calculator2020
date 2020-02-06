@@ -17,6 +17,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         System.out.println("ADD: "+add(10,20));
+
         System.out.println("Subtract: "+substrac(10,20));
     }
 
