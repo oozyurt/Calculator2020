@@ -6,9 +6,11 @@ public class Calculator {
     public static double add(double n1, double n2) {
         Calculator.n1 = n1;
         Calculator.n2 = n2;
-        double result = n1 + n2;
-        return result;
+        return n1 + n2;
     }
 
+    public static void main(String[] args) {
+        System.out.println(add(10,20));
+    }
 
 }
