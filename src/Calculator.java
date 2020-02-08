@@ -1,5 +1,5 @@
 public class Calculator {
-
+//add method
     static double n1;
     static double n2;
 
