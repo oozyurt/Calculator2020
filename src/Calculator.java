@@ -1,5 +1,5 @@
 public class Calculator {
-
+//hello oguz
     static double n1;
     static double n2;
 
