@@ -20,6 +20,13 @@ public class Calculator {
         Calculator.n2 = n2;
         return n1 * n2;
     }
+
+    public static double divide(double nn1, double nn2) {
+        Calculator.n1 = n1;
+        Calculator.n2 = n2;
+        Double result = n1/n2;
+        return result;
+    }
     
 
     public static void main(String[] args) {
