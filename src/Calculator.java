@@ -21,7 +21,7 @@ public class Calculator {
         return n1 * n2;
     }
 
-    public static double divide(double nn1, double nn2) {
+    public static double divide(double n1, double nn2) {
         Calculator.n1 = n1;
         Calculator.n2 = n2;
         Double result = n1/n2;
