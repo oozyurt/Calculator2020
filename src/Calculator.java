@@ -27,7 +27,6 @@ public class Calculator {
         Double result = n1/n2;
         return result;
     }
-    
 
     public static void main(String[] args) {
         System.out.println("ADD: "+add(10,20));
