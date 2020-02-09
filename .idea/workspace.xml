@@ -23,7 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../SalesAnalysis/src/Beans/Payment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bookit-acceptance-tests-master 2/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bookit-acceptance-tests-master 2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/colors" beforeDir="false" afterPath="$PROJECT_DIR$/colors" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,7 +146,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
